@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+data/*
+# git will ignore the data file. 
+*.fastq
+want_to_ignore.txt
